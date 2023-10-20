@@ -1,4 +1,4 @@
-# LaCT-Task11  
+# LaCT-Task1  
 Инструкция по запуску:  
 &nbsp;-Скачать и установить JDK с сайта [Oracle](https://www.oracle.com/cis/java/technologies/downloads/#jdk21-windows)  
 &nbsp;-Запустить командную строку и перейти в папку с Main.java  
